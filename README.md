@@ -1,6 +1,6 @@
 - 👋 Hi, I’m faye
 - 👀 I’m interested in automation, IoT.
-- 🌱 I’m currently taking interest in AI, ML, DL, MR.
+- 🌱 I’m currently taking interest in Automation, Manufacturing, Embedded Systems, Rust
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me @nhyfaye 
 
